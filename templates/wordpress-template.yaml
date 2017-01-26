@@ -232,7 +232,7 @@ parameters:
   value: wordpress
 - description: The URL of the repository with your application source code
   name: SOURCE_REPOSITORY_URL
-  value: https://github.com/getupcloud/wordpress-ex.git
+  value: https://github.com/cloudseabr/wordpress-ex.git
 - description: Set this to a branch name, tag or other ref of your repository if you
     are not using the default branch
   name: SOURCE_REPOSITORY_REF
